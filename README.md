@@ -9,3 +9,5 @@ Make the arrows match with the arrows in-game and click submit.
 After clicking submit the console will display how many times each arrow needs to be hit in-game to rotate all arrows back to facing towards the character.
 
 https://callofduty.fandom.com/wiki/The_Frozen_Dawn
+
+https://www.youtube.com/watch?app=desktop&v=DQtMLo-0OfI&t=8m12s
